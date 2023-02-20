@@ -7,4 +7,4 @@ and this repo is the solutions to all those exercises.
 
 ## Extras-
 
-If you feel correcting, sharing or discussing something feel free to contat on [mail](pranjalbajpai400@gmail.com) 
+If you feel correcting, sharing or discussing something feel free to contat on -(pranjalbajpai400@gmail.com)
